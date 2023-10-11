@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Peter Thunberg.  
+This is my place to put my personal programming project repositories.
+
 <!--
 **peterthunberg/peterthunberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
